@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+import logo from './wedges.svg';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://alanleechan.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Created by Alan Chan
         </a>
       </header>
     </div>
